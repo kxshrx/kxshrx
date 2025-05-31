@@ -1,51 +1,68 @@
-<h1 align="center">Hi, I'm Kishore 👋</h1>
+<h2 align="left">Hi 👋! I'm Kishore — a pragmatic developer who builds by doing.</h2>
 
-<p align="center">
-  I build things that solve real problems. Whether it's machine learning, backend APIs, or sensor-driven systems — I focus on projects that matter.
-</p>
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=kishorekumardj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kishorekumardj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo" />
+</div>
+
+###
+
+<div align="left">
+  <a href="mailto:kishore2k26@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/kishorekumardj" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://portfolio-kishore.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio badge" />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kishorekumardj/kishorekumardj/output/snake.svg" alt="Snake animation" />
+
+###
+
+### 🧠 About Me
+
+I write code with intent.  
+Not a fan of hype cycles — I prefer building, breaking, and rebuilding until it works.  
+I don’t chase trends. I ship practical tech, experiment with ML/AI, and automate workflows.  
 
 ---
 
-## 🛠 About Me
-
-- 🧠 I think in code and build by experimenting.
-- 🚀 I like shipping things fast — MVPs, demos, real-world solutions.
-- 🔍 I avoid noise. If it's not practical or insightful, it's not on my radar.
-- 🌐 I enjoy working across full-stack systems, but lean into AI, automation, and data.
-- 🧰 I'm tool-agnostic — I use what gets the job done.
-
----
-
-## ⚙️ Technologies I Use Often
-
-| Area | Tools |
-|------|-------|
-| **Languages** | Python, JavaScript, TypeScript, C++, Java |
-| **Frontend** | React, TailwindCSS, HTML/CSS |
-| **Backend** | FastAPI, Flask, Node.js, Express |
-| **AI/ML** | TensorFlow, PyTorch, Scikit-learn, OpenCV |
-| **Databases** | PostgreSQL, MongoDB, MySQL |
-| **Tools & DevOps** | Docker, Git, GitHub Actions, Vercel, Linux, Postman |
-
----
-
-## 📦 Things I’ve Built
-
-> I don't list fluff here. Check my pinned repos for hands-on builds with real-world implications — from autonomous pathfinding to sensor-driven road mapping and neural networks in production.
-
-📌 [**Pinned Projects →**](https://github.com/kishorekumardj?tab=repositories)
-
----
-
-## 📫 How to Reach Me
-
-- 🌐 Portfolio: [portfolio-kishore.vercel.app](https://portfolio-kishore.vercel.app)
-- 📬 Email: [kishore2k26@gmail.com](mailto:kishore2k26@gmail.com)
-
----
-
-## 💬 Philosophy
-
-> *Build fast. Learn fast. Iterate in public.*  
-> I’m not into chasing buzzwords. I care about clarity, speed, and results. If you’re building something interesting or want to collaborate — let’s talk.
+💬 You’ll find me iterating fast and learning in public.  
+For detailed projects, check out the pinned repos below.
 
