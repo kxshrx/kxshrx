@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="banner-github.png" alt="GitHub Banner" width="100%" />
 
 # Hey, I’m Kishore 🐾
 
