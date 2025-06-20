@@ -2,7 +2,7 @@
 
 # Hey, I’m Kishore 🐾
 
-I’m an engineer focused on building efficient, real-world solutions using AI — especially with LLMs, agents, vector databases, and automation.  
+I’m an developer focused on building efficient, real-world solutions using AI — especially with LLMs, agents, vector databases, and automation.  
 Most of what I work on lives at the intersection of backend systems and machine learning — quiet tools that work well, scale smart, and don’t overcomplicate.
 
 I’m not into overblown architecture or hype. Just a calm mind, a clean repo, and a product that does what it’s supposed to — fast and reliably.
